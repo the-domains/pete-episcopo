@@ -1,0 +1,28 @@
+name: Pete Episcopo
+favicon: null
+layout_spectrum: 0.8388629867695272
+typography_spectrum: 0.5578865057323128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3127704691141844
+  lightness: 0.20805420516990125
+  saturation: 0.8504423170816153
+  rhythmicContrast: 0.026602447032928467
+purpose: []
